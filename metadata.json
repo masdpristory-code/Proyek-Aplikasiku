@@ -1,0 +1,6 @@
+{
+  "name": "Generator RPP Deep Learning",
+  "description": "Aplikasi Web untuk menformulasi Rencana Pelaksanaan Pembelajaran (RPP) / Modul Ajar Kurikulum Merdeka menggunakan pendekatan Deep Learning (Mindful, Meaningful, & Joyful).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
